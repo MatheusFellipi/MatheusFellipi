@@ -1,9 +1,4 @@
-### Ola!! eu sou Matheus Fellipi ...(*￣０￣)ノ
-
-- 🔭 hoje estudo React e nodejs 
-- 🌱 Estaundo C#/Node & Vue/React
-- 😄 Pronouns: ele/dele
-
+### Ola!! eu sou Matheus Fellipi 
 ##
 
 <div align="center">
